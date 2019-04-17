@@ -1,3 +1,3 @@
 ### PROCESSADOR NEANDER
 
-[teste](/src/img/neander.png)
+<img src=”/src/img/neander.png”>
